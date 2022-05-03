@@ -19,6 +19,6 @@ public class git {
 
         System.out.println("push commit");
         
-         System.out.println("pull test");
+         System.out.println("gitee test");
     }
 }
