@@ -16,5 +16,7 @@ public class git {
 
         System.out.println("Master Test!");
         System.out.println("hot-fix test");
+
+        System.out.println("push commit");
     }
 }
